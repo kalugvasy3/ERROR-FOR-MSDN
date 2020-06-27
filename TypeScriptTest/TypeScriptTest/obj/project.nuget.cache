@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IjUkc/mIV9hrtFfpqxIK1dw49iK1dctjHJNnplR1JFHa184FC2f8FBNIt1JNtKzixgwZqo6IcHrXbpzN2+Z/vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vasily\\source\\repos\\TypeScriptTest\\TypeScriptTest\\TypeScriptTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vasily\\.nuget\\packages\\microsoft.typescript.msbuild\\3.9.5\\microsoft.typescript.msbuild.3.9.5.nupkg.sha512"
+  ],
+  "logs": []
+}
